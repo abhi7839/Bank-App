@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+body
+{
+   background-image: url(E:\Coaching Program\Project\BANK_APP\WebContent\back);	
+}
+.my-form
+{
+    padding: 30px;
+    background-color: floralwhite;
+    margin: 11%;
+    margin-bottom: 100px;
+    margin-left: 421px;
+    margin-right: 517px;
+    border: solid;
+    background-size: 41px 41px;
+}
+.form-group
+{
+    padding-bottom: 15px;
+    font-style: italic;
+    
+    
+   
+}
+.my-form label
+{
+    display: block;
+    font-style: italic;
+}
+
+.my-form input[type="text"]
+{
+   padding: 10px;
+    width: 15%;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    border: solid yellow;
+    width: 199px;
+    
+}
+.my-form input[type="password"]
+{
+    padding: 10px;
+    width: 15%;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    border: solid yellow;
+    width: 199px;
+}
+.my-form input[type="submit"]
+{
+    background-color: black;
+    color: tomato;
+    padding: 10px 15px;
+    
+}
+.my-form input[type="reset"]
+{
+    background-color: black;
+    color: tomato;
+    padding: 10px 15px;
+    margin-left: 84px;
+    
+}
